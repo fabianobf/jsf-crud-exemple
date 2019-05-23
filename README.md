@@ -1,6 +1,8 @@
 # jsf-crud-exemple
 Exemplo de CRUD JSF 2.2 / MySQL / Bootstrap css
 
+Lembro que no projeto tem que usar a api JSF 2.2.9 e o conector mysql java "mysql-connector-java-5.1.18.jar"
+
 Inicie o MySQL
 Use os comandos abaixo para criar o banco e a tabela de usuários.
 Importante não mudar a senha do banco pois o projeto usa o padrão usuário: root e senha: (vazio).
